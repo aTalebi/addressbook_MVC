@@ -1,0 +1,17 @@
+#checkbox-edit{
+    display:inline-block;
+    background-image :url("../../public/img/edit.png");
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+#checkbox-delete{
+    display:inline-block;
+    background-image :url("../../public/img/delete.png");
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
